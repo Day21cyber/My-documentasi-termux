@@ -1,1 +1,1 @@
-## Ini adalah dokumentasi scriot yang saya pakai di termux
+## Ini adalah dokumentasi script yang saya pakai di termux
